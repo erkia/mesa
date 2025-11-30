@@ -83,6 +83,7 @@ foreach d : [[with_gallium_kmsro, [
                'mcde_dri.so',
                'mediatek_dri.so',
                'meson_dri.so',
+               'mi0283aat_dri.so',
                'mi0283qt_dri.so',
                'mxsfb-drm_dri.so',
                'panel-mipi-dbi_dri.so',
